@@ -91,7 +91,7 @@ vrfs:
 - name: MGMT
   ip_routing: false
 management_interfaces:
-- name: Management1
+- name: Management0
   description: oob_management
   shutdown: false
   vrf: MGMT
@@ -199,4 +199,4 @@ ethernet_interfaces:
       interface: true
       igp_sync: true
 metadata:
-  platform: vEOS-lab
+  platform: cEOSLab
