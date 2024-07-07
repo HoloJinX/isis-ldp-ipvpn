@@ -3,4 +3,4 @@ venv/
 
 # ContainerLab Backup Files
 containerlab/clab-avd-mpls/
-containerlab/*.clab.yml.bak
+containerlab/.isis-ldp-ipvpn.clab.yml.bak
