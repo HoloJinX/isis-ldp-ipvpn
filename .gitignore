@@ -1,3 +1,6 @@
 # Virtual environment 
 venv/
+
+# ContainerLab Backup Files
 containerlab/clab-avd-mpls/
+containerlab/*.clab.yml.bak
