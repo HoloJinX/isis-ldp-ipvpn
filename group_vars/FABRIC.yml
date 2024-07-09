@@ -38,6 +38,11 @@ local_users:
     role: network-admin
     no_password: true
 
+# ADDED BY JIMMY - AAA exec default local
+aaa_authorization:
+  exec:
+    default: local
+
 # BGP peer groups passwords
 bgp_peer_groups:
   # all passwords set to "arista"
